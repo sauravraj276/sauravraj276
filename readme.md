@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 About Me
 ---
 
-🎓 I'm a Production and Industrial Engineering Undergraduate at MNNIT Allahabad.\
+🎓 I'm a Production and Industrial Engineering graduate from MNNIT Allahabad.\
 💡 Enthusiastic about Software Development, Data Structures, and Algorithms.\
 🌱 I'm constantly learning and exploring new technologies.\
 ✉️ Reach out to me via email at sauravraj276@gmail.com
